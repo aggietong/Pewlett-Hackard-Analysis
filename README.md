@@ -22,7 +22,7 @@ There are 57,668 employees with senior titles, who are of retirement age. This r
 
 #### Employees Eligible for the Mentorship Program 
 
-Of those that are retiring, there are 1,549 employees that qualify for the mentorship program. Reference the mentorship eligibility csv file for the full list of staff with mentorship eligibility. 
+Of those that are retiring, there are 1,549 employees that qualify for the mentorship program. Reference the mentorship eligibility csv file in the Data folder for the full list of staff with mentorship eligibility. 
 
 
 
