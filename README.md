@@ -12,15 +12,18 @@ This information will allow Pewlett Hackward to strategize on how to prepare for
 
 ## Results
 
-### Number of Retiring Employees by Title
+#### Number of Retiring Employees by Title
 
 There are 57,668 employees with senior titles, who are of retirement age. This represents 64% of the current Pewlett-Hackard workforce. Almost 1/3 are Senior Engineers, and another 1/3 are Senior staff. 
 
 <img width="321" alt="Fig 1" src="https://user-images.githubusercontent.com/96399622/154846544-d831b330-253c-4c9a-aded-1f4e4dc89605.PNG">
 
-### Employees Eligible for the Mentorship Program 
+
+
+#### Employees Eligible for the Mentorship Program 
 
 Of those that are retiring, there are 1,549 employees that qualify for the mentorship program. Reference the mentorship eligibility csv file for the full list of staff with mentorship eligibility. 
+
 
 
 ## Summary
